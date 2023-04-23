@@ -3,7 +3,7 @@ Code related to the paper "Mathieu moonshine and Borcherds products" by Haowu Wa
 
 # Setup
 Install the Sage package "WeilRep" from www.github.com/btw-47/weilrep.
-Copy all four .sage files into a single folder.
+Copy the .py file and the three .sage files into a single folder.
 
 # How to use
 Run Sage and load the file "moonshine_code.sage".
